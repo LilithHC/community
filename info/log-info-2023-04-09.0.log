@@ -1,0 +1,144 @@
+2023-04-09 17:14:30,689 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.coder.community.MailTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-04-09 17:14:30,896 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:245] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-04-09 17:14:30,915 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:174] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7de62196, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@163370c2, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@51bf5add, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7905a0b8, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@35a3d49f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@389b0789, org.springframework.test.context.transaction.TransactionalTestExecutionListener@13d9cbf5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@478db956, org.springframework.test.context.event.EventPublishingTestExecutionListener@6ca18a14, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@c667f46, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@51bd8b5c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7b50df34, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b410b60, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@2462cb01, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@19b843ba]
+2023-04-09 17:14:31,314 INFO [main] c.c.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_351 on yeye with PID 25292 (started by 11496 in D:\community)
+2023-04-09 17:14:31,316 INFO [main] c.c.c.MailTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 17:14:32,378 INFO [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 17:14:32,859 INFO [main] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 17:14:33,459 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-04-09 17:14:33,876 INFO [main] c.c.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.914 seconds (JVM running for 4.161)
+2023-04-09 17:14:45,501 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 17:14:45,512 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
+2023-04-09 17:19:29,089 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.coder.community.MailTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-04-09 17:19:29,225 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:245] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-04-09 17:19:29,241 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:174] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@70e38ce1, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2ca923bb, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@13df2a8c, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1ebea008, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@72d6b3ba, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1787f2a0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@7de62196, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@163370c2, org.springframework.test.context.event.EventPublishingTestExecutionListener@51bf5add, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@7905a0b8, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@35a3d49f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@389b0789, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@13d9cbf5, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@478db956, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6ca18a14]
+2023-04-09 17:19:29,530 INFO [main] c.c.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_351 on yeye with PID 13024 (started by 11496 in D:\community)
+2023-04-09 17:19:29,531 INFO [main] c.c.c.MailTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 17:19:30,260 INFO [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 17:19:30,609 INFO [main] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 17:19:31,051 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-04-09 17:19:31,307 INFO [main] c.c.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.019 seconds (JVM running for 2.9)
+2023-04-09 17:19:34,722 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 17:19:34,729 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
+2023-04-09 23:10:28,987 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_351 on yeye with PID 7344 (D:\community\target\classes started by 11496 in D:\community)
+2023-04-09 23:10:28,989 INFO [restartedMain] c.c.c.CommunityApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 23:10:29,019 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 23:10:29,020 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 23:10:29,768 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8081 (http)
+2023-04-09 23:10:29,769 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-09 23:10:29,769 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-04-09 23:10:29,769 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-04-09 23:10:29,778 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-09 23:10:29,784 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:10:29,785 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-04-09 23:10:29,786 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-09 23:10:29,851 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-04-09 23:10:29,851 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 831 ms
+2023-04-09 23:10:29,920 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 23:10:30,085 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 23:10:30,273 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 23:10:30,278 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
+2023-04-09 23:10:30,279 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-04-09 23:10:30,287 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-04-09 23:12:32,552 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_351 on yeye with PID 27480 (D:\community\target\classes started by 11496 in D:\community)
+2023-04-09 23:12:32,554 INFO [restartedMain] c.c.c.CommunityApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 23:12:32,588 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 23:12:32,588 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 23:12:33,555 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8081 (http)
+2023-04-09 23:12:33,556 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-09 23:12:33,556 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-04-09 23:12:33,556 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-04-09 23:12:33,561 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-09 23:12:33,570 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:12:33,570 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-04-09 23:12:33,571 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-09 23:12:33,688 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-04-09 23:12:33,688 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 1100 ms
+2023-04-09 23:12:33,780 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 23:12:34,099 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 23:12:34,367 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 23:12:34,371 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
+2023-04-09 23:12:34,372 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-04-09 23:12:34,381 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-04-09 23:13:42,540 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_351 on yeye with PID 18136 (D:\community\target\classes started by 11496 in D:\community)
+2023-04-09 23:13:42,543 INFO [restartedMain] c.c.c.CommunityApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 23:13:42,571 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 23:13:42,571 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 23:13:43,224 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8081 (http)
+2023-04-09 23:13:43,224 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-09 23:13:43,224 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-04-09 23:13:43,225 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-04-09 23:13:43,226 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-09 23:13:43,230 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:13:43,231 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-04-09 23:13:43,231 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-09 23:13:43,321 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-04-09 23:13:43,321 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 749 ms
+2023-04-09 23:13:43,409 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 23:13:43,641 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 23:13:43,997 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-04-09 23:13:44,135 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-04-09 23:13:44,150 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:13:44,173 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8081 (http) with context path '/community'
+2023-04-09 23:13:44,180 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.898 seconds (JVM running for 2.704)
+2023-04-09 23:14:52,650 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-09 23:14:52,650 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-04-09 23:14:52,656 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 6 ms
+2023-04-09 23:53:13,293 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 23:53:13,298 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
+2023-04-09 23:53:19,136 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_351 on yeye with PID 3316 (D:\community\target\classes started by 11496 in D:\community)
+2023-04-09 23:53:19,138 INFO [restartedMain] c.c.c.CommunityApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 23:53:19,164 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 23:53:19,164 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 23:53:19,865 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8081 (http)
+2023-04-09 23:53:19,866 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-09 23:53:19,866 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-04-09 23:53:19,866 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-04-09 23:53:19,868 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-09 23:53:19,873 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:53:19,874 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-04-09 23:53:19,874 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-09 23:53:19,932 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-04-09 23:53:19,933 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 768 ms
+2023-04-09 23:53:20,000 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 23:53:20,168 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 23:53:20,402 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-04-09 23:53:20,503 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-04-09 23:53:20,514 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:53:20,523 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8081 (http) with context path '/community'
+2023-04-09 23:53:20,530 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.657 seconds (JVM running for 2.46)
+2023-04-09 23:53:23,550 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-09 23:53:23,550 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-04-09 23:53:23,551 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-04-09 23:54:36,229 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 23:54:36,234 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
+2023-04-09 23:54:39,231 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_351 on yeye with PID 4268 (D:\community\target\classes started by 11496 in D:\community)
+2023-04-09 23:54:39,233 INFO [restartedMain] c.c.c.CommunityApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-04-09 23:54:39,261 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 23:54:39,261 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 23:54:39,899 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8081 (http)
+2023-04-09 23:54:39,900 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-04-09 23:54:39,900 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-04-09 23:54:39,901 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-04-09 23:54:39,903 INFO [restartedMain] o.a.c.c.AprLifecycleListener [DirectJDKLog.java:173] OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-04-09 23:54:39,908 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:54:39,908 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-04-09 23:54:39,909 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-09 23:54:39,974 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-04-09 23:54:39,975 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 713 ms
+2023-04-09 23:54:40,057 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2023-04-09 23:54:40,244 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:1003] {dataSource-1} inited
+2023-04-09 23:54:40,511 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-04-09 23:54:40,627 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-04-09 23:54:40,642 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8081"]
+2023-04-09 23:54:40,653 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8081 (http) with context path '/community'
+2023-04-09 23:54:40,660 INFO [restartedMain] c.c.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.649 seconds (JVM running for 2.455)
+2023-04-09 23:54:44,104 INFO [http-nio-8081-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-09 23:54:44,104 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-04-09 23:54:44,105 INFO [http-nio-8081-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-04-09 23:58:04,965 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:1965] {dataSource-1} closing ...
+2023-04-09 23:58:04,981 INFO [SpringApplicationShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:2037] {dataSource-1} closed
