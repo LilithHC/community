@@ -1,0 +1,81 @@
+2023-04-18 15:02:42,816 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:03:11,040 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:03:30,903 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:04:05,471 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:05:17,173 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:08:02,569 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:10:13,724 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:10:31,130 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-04-18 15:11:51,259 WARN [main] o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [DuplicateJsonObjectContextCustomizerFactory.java:78] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/ProgramSoftwares/apache-maven-3.6.0/reps/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
